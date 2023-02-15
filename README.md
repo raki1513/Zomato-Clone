@@ -1,5 +1,3 @@
-##This is Zomato Clone
+This is Zomato Clone
 
-##Technologies Used: HTML, CSS 
-
-## 
+Technologies Used: HTML, CSS 
