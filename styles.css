@@ -34,7 +34,7 @@
 .navbar__menu_container .user_icon{
     height: 25px;
     width: 25px;
-    /* display: flex; */
+    display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 100%;
@@ -74,16 +74,12 @@
     width: 50%;
     border-radius: 10px;
 }
-
 .input_container_location, 
 .input_container_search{
     padding: 5px;
     border: none;
     outline: none;
 }
-
-
-
 .input_container_location{
     width: 35%;
     border-right: 2px solid #e0e0e0;
@@ -94,11 +90,11 @@
 }
 
 @media only screen and (max-width:600px){
-    .navbar__menu_container .user_icon{
-        display: flex;
-    }
     .link{
         display: none;
+    }
+    .navbar__menu_container .user_icon{
+        display: flex;
     }
     .hero__section{
         min-height: 80vh;
