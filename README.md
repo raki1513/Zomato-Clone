@@ -1,6 +1,8 @@
-This is Zomato Clone
+This is a Zomato Clone
 
 Technologies Used: HTML, CSS 
+
+
 In this Project I have Created a Zomato Clone that was created through HTML and CSS 
 
 
